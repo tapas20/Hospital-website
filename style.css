@@ -569,10 +569,7 @@ header {
   margin: 0.5rem;
 }
 
-
-
-
-@media (max-width: 768px) {
+@media (max-width: 905px) {
   html {
     font-size: 55%;
   }
